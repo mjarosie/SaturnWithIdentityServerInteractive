@@ -1,0 +1,6 @@
+FSharp.Core
+Saturn
+Saturn.Extensions.Authorization
+
+Dapper
+Microsoft.Data.Sqlite
